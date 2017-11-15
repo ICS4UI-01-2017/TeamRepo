@@ -9,5 +9,5 @@ package repotesting;
  * @author slatz8075
  */
 public class Zactesting {
-    System.out.println(potato);
+    System.out.println();
 }
